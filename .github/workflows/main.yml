@@ -14,6 +14,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: ftp.butterflames.com
+        server: ftp.hybrid.clouddnsserver.org
         username: info@techpressions.com
         password: TechPres@123
